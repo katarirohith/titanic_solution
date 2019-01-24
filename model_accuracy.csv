@@ -1,0 +1,10 @@
+,Model,Score
+0,Support Vector Machines,83.84
+1,KNN,84.74
+2,Logistic Regression,80.36
+3,Random Forest,86.76
+4,Naive Bayes,72.28
+5,Perceptron,78.0
+6,Stochastic Gradient Decent,80.13
+7,Linear SVC,79.12
+8,Decision Tree,86.76
